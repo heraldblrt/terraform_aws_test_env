@@ -1,4 +1,4 @@
-# Terraform - Fluwd App - AWS Test Environment
+# Terraform - Simple - AWS Test Environment
 
 ## Overview
 
